@@ -7,13 +7,16 @@
   /******************************************
   /* LAYOUT
   /*******************************************/
-  body {
+  
+
+  body { 
+    font-family: 'Mrs Saint Delafield', cursive;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
     text-align:center;
-    margin-top:8em;
+    margin-top:5em;
       background-image:url('img/grunge-style-canvas-texture-background-with-splats-stains.jpg');
       background-size: cover;
       background-repeat: no-repeat;
@@ -24,20 +27,24 @@
     text-align:center;
     margin-top: 2px;
     font-size:16px;
-
+    
   }
   input{
     background-color:rgb(232, 219, 194);
     width:15%;
     text-align:center;
     font-size:18px;
+   
   }
   h1{
-    font-size:60px;
+    font-size:115px;
+    margin:1px;
   }
   h3{
-    font-size:35px;
+    font-size:60px;
+    margin-top:1px;
   }
   p{
-    font-size:35px;
+      font-weight: bold;
+      font-size: 42px;
   }
