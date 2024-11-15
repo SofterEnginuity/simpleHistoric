@@ -4,9 +4,7 @@ Throw in a date and learn some historic facts! I don't mean from 10 years ago, n
 
 **Link to project:** https://historicdates.netlify.app/
 
-![alt tag](https://i.imgur.com/dGlDdcJ.png)
-
-
+<img src="https://i.imgur.com/dGlDdcJ.png" width=40% height=40%>
 **Tech used:** HTML, CSS & Javascript
 
 ## Lessons Learned:
